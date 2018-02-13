@@ -10,6 +10,7 @@ There are two indicators:
   2. The number of digits in the number (called the length)
 
 Note: `cardNumber` will always be a string
+
 1.The Diner's Club network always starts with a 38 or 39 and is 14 digits long
 
 2.The American Express network always starts with a 34 or 37 and is 15 digits long
