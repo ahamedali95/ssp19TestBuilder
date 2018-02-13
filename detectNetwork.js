@@ -116,4 +116,4 @@ function isSwitch(cardNumber) {
 }
 
 
-console.log(detectNetwork("5400000000000000"))
+//console.log(detectNetwork("5400000000000000"))
